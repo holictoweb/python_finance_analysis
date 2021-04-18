@@ -10,7 +10,11 @@
 
 #### reference
 
-[파이썬으로 배우는 포트폴리오](https://github.com/gilbutITbook/080227)    
+[파이썬으로 배우는 포트폴리오](https://github.com/gilbutITbook/080227)  
+  
 [금융 파이썬 쿡북 ](https://github.com/AcornPublishing/python-finance)  
 
+[파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](https://github.com/quantylab/rltrader)
 
+
+[퀀티랩 블로그](http://blog.quantylab.com/pages/rltrader.html)

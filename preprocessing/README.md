@@ -19,4 +19,4 @@ amzn_df = yf.download('AMZN', start=sdate, end=edate)
 2. 파생데이터 생성
   - price moving average
   - volume moving average
-  -  
+  - 
