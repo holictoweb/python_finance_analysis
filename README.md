@@ -10,7 +10,7 @@
 
 #### reference
 
-[파이썬으로 배우는 포트폴리오](https://github.com/gilbutITbook/080227)
-[금융 파이썬 쿡북 ](https://github.com/AcornPublishing/python-finance)
+[파이썬으로 배우는 포트폴리오](https://github.com/gilbutITbook/080227)    
+[금융 파이썬 쿡북 ](https://github.com/AcornPublishing/python-finance)  
 
 
