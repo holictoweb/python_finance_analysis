@@ -1,4 +1,11 @@
-### 이동평균을 이용한 분석 방법 
+### 분석 프로세스
+
+- ingest > preprocessing > analysis > backtrading 
+
+
+
+
+#### 이동평균을 이용한 분석 방법 
 
 1. SMA (Simple Moving Average)
 
