@@ -5,6 +5,7 @@
 |basic|기본사용 방법 |[link](https://github.com/holictoweb/python_finance_analysis/blob/master/backtrader/backtrader_basic_01.ipynb)|
 |smastretagy||[link](https://github.com/holictoweb/python_finance_analysis/blob/master/backtrader/backtrader_SmaStrategy.ipynb)|
 |볼린저밴드||[link]()|
+|indicator| custom indicator 사용 방법 |[]()|
 
 
 
