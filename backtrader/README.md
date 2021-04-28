@@ -23,7 +23,17 @@
 - addobserver 를 사용해 관찰자 추가. 
   - BuySell - 매수/매도 (파란 빨간 삼각형으로 표시) 
   - Value - 시간에 따른 포트폴리오 가치의 변화를 추적
-- 
+
+
+```
+cerebro = bt.Cerebro(stdstats = False)
+
+cerebro.adddata(data)
+cerebro.broker.setcash(1000.0)
+cerebro.addstrategy(SmaStrategy)
+cerebro.addobserver(bt.observers.BuySell)
+cerebro.addobserver(bt.observers.Value)
+```
 
 
 |type|detail|
